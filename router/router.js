@@ -36,7 +36,7 @@ router.post("/", (req, res) => {
   });
 });
 
-// Get by id route
+// Get by id rout
 router.get("/:id", (req, res) => {
   const { id } = req.params;
   if (!id) {
