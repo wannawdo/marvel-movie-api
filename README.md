@@ -7,6 +7,8 @@ Frontend link: [https://github.com/wannawdo/marvel-movie-app](https://github.com
 
 Backend link: [https://github.com/wannawdo/marvel-movie-api](https://github.com/wannawdo/marvel-movie-api)
 
+YouTube: [https://www.youtube.com/watch?v=GbJKBMnpIH4](https://www.youtube.com/watch?v=GbJKBMnpIH4)
+
 ## Introducere
 Astăzi, Marvel Studios este, fără îndoială, cea mai de succes franciză de film din istorie. Cu câte filme Marvel sunt în lista de blockbuster certificate, este aproape imposibil să găsești pe cineva care să nu-i cunoască pe Avengers, Spider-Man sau Doctor Stange.
 
